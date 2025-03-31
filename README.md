@@ -6,5 +6,6 @@ ___
 - Tengo un perro y un gato.
 - Esta materia la curso con dos amigos
 
+![fotoconamigos](https://github.com/user-attachments/assets/306e4182-270a-404e-a3b2-79e099c1e35d)
 
-
+___
